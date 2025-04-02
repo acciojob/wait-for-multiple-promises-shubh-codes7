@@ -1,6 +1,6 @@
 	let body = document.querySelector("#output")
 	body.innerHTML = `
-	<tr >
+	<tr id="loading" >
 		<td colspan="2">Loading...</td>
 	</tr>
 `
